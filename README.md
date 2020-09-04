@@ -7,17 +7,29 @@ Here is my Infographic Project about the growth of game industry. I have done th
 Video game is growing rapidly.
 
 [Panel 1]
+
 Number of games released on Stream:
+
 2014: 1771
+
 2015: 2964
+
 2016: 4207
+
 2017:  7049
+
 1.8 billion out of 7.2 billion people are gamers all over the world.
+
 Largest prize pool for esport (game champion league): Dota 2 with $+30,200,471
+
 Ratio of age range of video game players in the US in 2019:
+
 Under 18: 21%
+
 18-35: 40%
+
 36-49: 18%
+
 50 and older: 21%
 
 [Panel 2]
