@@ -3,6 +3,7 @@ Here is my Infographic Project about the growth of game industry. I have done th
 1. INFOGRAPHIC DATA
 
 [Introduction]
+
 Video game is growing rapidly.
 
 [Panel 1]
