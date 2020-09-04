@@ -1,8 +1,10 @@
 # Infographic-Project---The-Growth-of-Gaming-Industry
 Here is my Infographic Project about the growth of game industry. I have done this project from scratch so enjoy it if you like.
 1. INFOGRAPHIC DATA
+
 [Introduction]
 Video game is growing rapidly.
+
 [Panel 1]
 Number of games released on Stream:
 2014: 1771
